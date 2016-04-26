@@ -4,3 +4,11 @@ C:\Users\walterh\Documents\SharpDevelop Projects\TresUploadStructure\TresUploadS
 C:\Users\walterh\Documents\SharpDevelop Projects\TresUploadStructure\TresUploadStructure\obj\Debug\TresUploadStructure.csprojResolveAssemblyReference.cache
 C:\Users\walterh\Documents\SharpDevelop Projects\TresUploadStructure\TresUploadStructure\obj\Debug\TresUploadStructure.exe
 C:\Users\walterh\Documents\SharpDevelop Projects\TresUploadStructure\TresUploadStructure\obj\Debug\TresUploadStructure.pdb
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\bin\Debug\TresUploadStructure.exe.config
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\bin\Debug\TresUploadStructure.exe
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\bin\Debug\TresUploadStructure.pdb
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\obj\Debug\TresUploadStructure.csprojResolveAssemblyReference.cache
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\obj\Debug\TresUploadStructure.exe
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\obj\Debug\TresUploadStructure.pdb
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\obj\Debug\TresUploadStructure.MainForm.resources
+C:\Users\eliseoc\Documents\SharpDevelop Projects\TresUploadStructure\obj\Debug\TresUploadStructure.csproj.GenerateResource.Cache

@@ -28,7 +28,11 @@ namespace TresUploadStructure
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-			MessageBox.Show("Hello World, and Eli :p ");
+
+		}
+		void Button1Click(object sender, EventArgs e)
+		{
+			this.Close();
 		}
 	}
 }
